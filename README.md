@@ -1,2 +1,2 @@
-# ai-utils-library
-A modular Python library for AI helper utilities and ML workflows
+# AI Utils Library
+A modular Python package for AI helper utilities — NLP, Vision, and Data Science.
